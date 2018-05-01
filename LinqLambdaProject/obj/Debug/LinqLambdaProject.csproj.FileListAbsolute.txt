@@ -1,0 +1,6 @@
+D:\src\console c#\assessment\SimpleEditor\LinqLambdaProject\bin\Debug\LinqLambdaProject.exe.config
+D:\src\console c#\assessment\SimpleEditor\LinqLambdaProject\bin\Debug\LinqLambdaProject.exe
+D:\src\console c#\assessment\SimpleEditor\LinqLambdaProject\bin\Debug\LinqLambdaProject.pdb
+D:\src\console c#\assessment\SimpleEditor\LinqLambdaProject\obj\Debug\LinqLambdaProject.csprojResolveAssemblyReference.cache
+D:\src\console c#\assessment\SimpleEditor\LinqLambdaProject\obj\Debug\LinqLambdaProject.exe
+D:\src\console c#\assessment\SimpleEditor\LinqLambdaProject\obj\Debug\LinqLambdaProject.pdb

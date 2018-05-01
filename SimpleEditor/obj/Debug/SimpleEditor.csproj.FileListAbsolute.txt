@@ -1,0 +1,6 @@
+D:\src\console c#\assessment\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.exe.config
+D:\src\console c#\assessment\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.exe
+D:\src\console c#\assessment\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.pdb
+D:\src\console c#\assessment\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.csprojResolveAssemblyReference.cache
+D:\src\console c#\assessment\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.exe
+D:\src\console c#\assessment\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.pdb

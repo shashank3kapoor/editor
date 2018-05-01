@@ -1,0 +1,6 @@
+D:\src\console c#\assessment\SimpleEditor\FunctionalSimpleEditor\bin\Debug\FunctionalSimpleEditor.exe.config
+D:\src\console c#\assessment\SimpleEditor\FunctionalSimpleEditor\bin\Debug\FunctionalSimpleEditor.exe
+D:\src\console c#\assessment\SimpleEditor\FunctionalSimpleEditor\bin\Debug\FunctionalSimpleEditor.pdb
+D:\src\console c#\assessment\SimpleEditor\FunctionalSimpleEditor\obj\Debug\FunctionalSimpleEditor.csprojResolveAssemblyReference.cache
+D:\src\console c#\assessment\SimpleEditor\FunctionalSimpleEditor\obj\Debug\FunctionalSimpleEditor.exe
+D:\src\console c#\assessment\SimpleEditor\FunctionalSimpleEditor\obj\Debug\FunctionalSimpleEditor.pdb

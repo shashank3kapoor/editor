@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEditor", "SimpleEditor\SimpleEditor.csproj", "{9DADB8AB-3459-48C1-B6DB-761FF7654928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalSimpleEditor", "FunctionalSimpleEditor\FunctionalSimpleEditor.csproj", "{2C9B7162-595C-491F-A06F-8A5640CFEFE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLambdaProject", "LinqLambdaProject\LinqLambdaProject.csproj", "{521B55D4-972D-49A6-96B6-45C7018749FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DADB8AB-3459-48C1-B6DB-761FF7654928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DADB8AB-3459-48C1-B6DB-761FF7654928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DADB8AB-3459-48C1-B6DB-761FF7654928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DADB8AB-3459-48C1-B6DB-761FF7654928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9B7162-595C-491F-A06F-8A5640CFEFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9B7162-595C-491F-A06F-8A5640CFEFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9B7162-595C-491F-A06F-8A5640CFEFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9B7162-595C-491F-A06F-8A5640CFEFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521B55D4-972D-49A6-96B6-45C7018749FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521B55D4-972D-49A6-96B6-45C7018749FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521B55D4-972D-49A6-96B6-45C7018749FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521B55D4-972D-49A6-96B6-45C7018749FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
